@@ -1,0 +1,40 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Ojonav Hazarika\Documents\2. KARMA\June2012to_\UCT PROJECTS\White Space Development\COMRAD PROJECT\COMRAD PCB PROJECT\Database Library\Database.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel
+LibraryDatabasePath=C:\Users\Ojonav Hazarika\Documents\2. KARMA\June2012to_\UCT PROJECTS\White Space Development\COMRAD PROJECT\COMRAD PCB PROJECT\Database Library\Database.xls
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LastFocusedTable=Database$
+[Table1]
+SchemaName=
+TableName=Database$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=Database$.Part Number|TableNameOnly=Database$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Database$.Manufacturer|TableNameOnly=Database$|FieldNameOnly=Manufacturer|FieldType=1|ParameterName=Manufacturer|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=2
+[FieldMap3]
+Options=FieldName=Database$.Description|TableNameOnly=Database$|FieldNameOnly=Description|FieldType=1|ParameterName=Description|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=2
+[FieldMap4]
+Options=FieldName=Database$.Value|TableNameOnly=Database$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=2
+[FieldMap5]
+Options=FieldName=Database$.Library Ref|TableNameOnly=Database$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=Library Ref|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=2
+[FieldMap6]
+Options=FieldName=Database$.Footprint Ref|TableNameOnly=Database$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=Footprint Ref|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=2
+[FieldMap7]
+Options=FieldName=Database$.Distributor|TableNameOnly=Database$|FieldNameOnly=Distributor|FieldType=1|ParameterName=Distributor|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=2
+[FieldMap8]
+Options=FieldName=Database$.Manufacturer Datasheet|TableNameOnly=Database$|FieldNameOnly=Manufacturer Datasheet|FieldType=1|ParameterName=Manufacturer Datasheet|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=2
