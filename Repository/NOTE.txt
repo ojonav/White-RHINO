@@ -1,1 +1,3 @@
-I2C Temperature Sensors Added
+Transported to PCB.
+TRAX Rules implemented.
+Layers not added
