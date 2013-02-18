@@ -2,7 +2,7 @@
 Version=1.1
 [DatabaseLinks]
 ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Ojonav Hazarika\Documents\2. KARMA\June2012to_\UCT PROJECTS\White Space Development\COMRAD PROJECT\COMRAD PCB PROJECT\Schematic Library\Database_Library\COMRAD_Database.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
-AddMode=3
+AddMode=2
 RemoveMode=1
 UpdateMode=2
 ViewMode=1
@@ -15,33 +15,35 @@ LibraryDatabaseType=Microsoft Excel
 LibraryDatabasePath=C:\Users\Ojonav Hazarika\Documents\2. KARMA\June2012to_\UCT PROJECTS\White Space Development\COMRAD PROJECT\COMRAD PCB PROJECT\Schematic Library\Database_Library\COMRAD_Database.xls
 DatabasePathRelative=0
 TopPanelCollapsed=0
-LastFocusedTable=Sheet1$
+LastFocusedTable=Database$
 [Table1]
 SchemaName=
-TableName=Sheet1$
+TableName=Database$
 Enabled=True
 UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=138|Manufacturer0=166|Description0=231|Value0=56|Symbol0=60|Footprint0=122
+BrowserOrder_Visible=Part Number0=154|Manufacturer0=295|Description0=546|Value0=108|Library Ref0=251|Footprint Ref0=284|Distributor0=309|Manufacturer Datasheet0=138
 [Table2]
+SchemaName=
+TableName=Sheet1$
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table3]
 SchemaName=
 TableName=Sheet2$
 Enabled=False
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=CAPC0201(0603)33_N0=131
-[Table3]
+[Table4]
 SchemaName=
 TableName=Sheet3$
 Enabled=False
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=F10=35
 [FieldMap1]
+Options=FieldName=Database$.Part Number|TableNameOnly=Database$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
 Options=FieldName=Sheet1$.Part Number|TableNameOnly=Sheet1$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
