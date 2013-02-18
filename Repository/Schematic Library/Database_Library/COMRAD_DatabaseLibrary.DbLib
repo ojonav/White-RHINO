@@ -1,0 +1,76 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Ojonav Hazarika\Documents\2. KARMA\June2012to_\UCT PROJECTS\White Space Development\COMRAD PROJECT\COMRAD PCB PROJECT\Schematic Library\Database_Library\COMRAD_Database.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel
+LibraryDatabasePath=C:\Users\Ojonav Hazarika\Documents\2. KARMA\June2012to_\UCT PROJECTS\White Space Development\COMRAD PROJECT\COMRAD PCB PROJECT\Schematic Library\Database_Library\COMRAD_Database.xls
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=..\..\Schematic Library;..\..\PCB Library;..\..\IBIS Models
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=1
+LastFocusedTable=Sheet1$
+[Table1]
+SchemaName=
+TableName=Sheet1$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=139|Description0=271|Library Ref0=251|Footprint Ref0=122|Manufacturer0=166|Value0=56|Manufacturer Datasheet0=309
+[Table2]
+SchemaName=
+TableName=Sheet2$
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table3]
+SchemaName=
+TableName=Sheet3$
+Enabled=False
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=Sheet1$.Part Number|TableNameOnly=Sheet1$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Sheet1$.Description|TableNameOnly=Sheet1$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Sheet1$.Library Ref|TableNameOnly=Sheet1$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Sheet1$.Footprint Ref|TableNameOnly=Sheet1$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Sheet1$.Manufacturer|TableNameOnly=Sheet1$|FieldNameOnly=Manufacturer|FieldType=1|ParameterName=Manufacturer|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Sheet1$.Value|TableNameOnly=Sheet1$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Sheet2$.Library Path|TableNameOnly=Sheet2$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Sheet2$.Footprint Path|TableNameOnly=Sheet2$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Sheet2$.Sim Description|TableNameOnly=Sheet2$|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Sheet2$.Sim Excluded Parts|TableNameOnly=Sheet2$|FieldNameOnly=Sim Excluded Parts|FieldType=1|ParameterName=[Sim Excluded Parts]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Sheet2$.Sim File|TableNameOnly=Sheet2$|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Sheet2$.Sim Kind|TableNameOnly=Sheet2$|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Sheet2$.Sim Model Name|TableNameOnly=Sheet2$|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Sheet2$.Sim Parameters|TableNameOnly=Sheet2$|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Sheet2$.Sim Port Map|TableNameOnly=Sheet2$|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Sheet2$.Sim Spice Prefix|TableNameOnly=Sheet2$|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=Sheet2$.Sim SubKind|TableNameOnly=Sheet2$|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
