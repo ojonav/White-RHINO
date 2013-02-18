@@ -1,0 +1,3 @@
+FT_I2C=SDA,SCL
+I2C=SCL,SDA
+Temp_Sensor_I2C=SDA,SCL
