@@ -1,1 +1,1 @@
-PCB libraries of switches added.
+NEW usb-uart-jtag-i2c sheet added with 4-channel ft4232hq
