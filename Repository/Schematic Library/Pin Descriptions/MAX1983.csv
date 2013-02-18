@@ -1,0 +1,7 @@
+Object Kind,X1,Y1,Name,Pin Designator,Pin Type,Description,Width,Componenet Designator,Super Logic Region
+Pin,40,0,BIAS,1,Power,,,,
+Pin,40,-10,GND,2,Power,,,,
+Pin,40,-20,SHDN,3,Power,,,,
+Pin,40,-30,PGOOD,4,Power,,,,
+Pin,40,-40,OUT,5,Power,,,,
+Pin,40,-50,IN,6,Power,,,,

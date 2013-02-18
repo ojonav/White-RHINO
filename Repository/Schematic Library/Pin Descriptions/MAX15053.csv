@@ -1,0 +1,10 @@
+Object Kind,X1,Y1,Name,Pin Designator,Pin Type,Description,Width,Componenet Designator,Super Logic Region
+Pin,40,0,GND,A1,Power,,,,
+Pin,40,-10,LX,A2,Power,,,,
+Pin,40,-20,IN,A3,Power,,,,
+Pin,40,-30,COMP,B1,Power,,,,
+Pin,40,-40,SKIP,B2,Power,,,,
+Pin,40,-50,EN,B3,Power,,,,
+Pin,40,-60,FB,C1,Power,,,,
+Pin,40,-70,SS_REFIN,C2,Power,,,,
+Pin,40,-80,PGOOD,C3,Power,,,,

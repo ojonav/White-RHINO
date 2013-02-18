@@ -1,0 +1,12 @@
+Object Kind,X1,Y1,Name,Pin Designator,Pin Type,Description,Width,Componenet Designator,Super Logic Region
+Pin,40,0,REFOUT,1,Power,,,,
+Pin,40,-10,VCC,2,Power,,,,
+Pin,40,-20,AGND,3,Power,,,,
+Pin,40,-30,REFIN,4,Power,,,,
+Pin,40,-40,PGOOD,5,Power,,,,
+Pin,40,-50,OUTS,6,Power,,,,
+Pin,40,-60,SHDN,7,Power,,,,
+Pin,40,-70,PGND,8,Power,,,,
+Pin,40,-80,OUT,9,Power,,,,
+Pin,40,-90,IN,10,Power,,,,
+Pin,40,-100,EP,11,Power,,,,

@@ -1,0 +1,73 @@
+1 VCC_LNA Analogue Power supply for LNA
+Connect to VCC via dedicated
+decoupling network to enable LNA
+Connect to GND to disable LNA
+2 VCC_AGC Analogue Power supply for AGC Connect to VCC
+3 LNA_IN LNA RF input
+DC blocking capacitor required
+Connect to matching network in a
+compact RF layout
+4 VDD_FSE Power supply for configuration logic Connect to VCC
+5 VAGC AGC filter capacitor
+Single capacitor to GND
+(Pin also allows external control of
+AGC when AGC_DIS = ‘1’)
+6 AGC_DIS AGC Inhibit input
+AGC Gain hold (Connect to VDD)
+or
+Enable AGC (Connect to VSSN / GND)
+7 VSSN Ground return for digital interface Connect to GND, or digital ground for
+baseband IC
+8 VDDN Digital Power supply for digital interface Connect to VDD, or digital supply for
+baseband IC
+9 CLK_OUT Sample clock output ADC Sample Clock output to baseband
+IC, at VDDN logic levels
+10 SIGN SIGN output data ADC SIGN output to baseband IC, at
+VDDN logic levels
+11 MAG MAG output data ADC MAG output to baseband IC, at
+VDDN logic levels
+12 FREF0 Frequency Reference select pin (bit 0) Select desired Reference / IF /
+CLK_OUT frequency plan as per
+“FREF Hardware Configuration” Table
+(Connect to RX_EN or VSSN / GND as
+required)
+13 FREF1 Frequency Reference select pin (bit 1)
+14 FREF2 Frequency Reference select pin (bit 2)
+15 XTAL1 Crystal / TCXO connection
+If using TCXO reference source:
+Connect to AC coupled TCXO
+reference signal
+If using Crystal reference source:
+Connect one lead of Crystal to Crystal
+input 1 (XTAL1)
+16 XTAL2 Crystal Connection
+If using TCXO reference source:
+Leave unconnected
+If using Crystal reference source:
+Connect other lead of Crystal to Crystal
+input 2 (XTAL2)
+17 VDDQ Power supply for quiet digital circuits Connect to VCC
+18 VTUNE VCO tuning voltage input / PLL Phasedetector
+output Connect to PLL Loop Filter network
+19 OSC_EN Crystal oscillator enable
+If using TCXO reference source
+(NO crystal oscillator needed):
+Connect to VSSN / GND
+If using Crystal reference source, with
+crystal oscillator:
+Connect to VDD
+20 RVI Program baseband output drive current
+Leave unconnected
+or
+Connect via a resistor to analogue VCC
+for up to 2x output drive current
+21 MIX_IN Mixer input DC coupled RF input to RF Mixer
+22 VCC Analogue Power supply for RF front
+end Connect to VCC
+23 RX_EN Receiver enable
+Connect to VDD to enable Radio
+Connect to VSSN / GND to disable
+Radio
+24 LNA_OUT LNA RF output RF output from LNA. DC blocked, with
+10 kO (nom) DC impedance to ground.
+Die Pad GND Ground connection Main IC GND Connection
