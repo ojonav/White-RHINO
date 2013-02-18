@@ -1,1 +1,3 @@
-NEW usb-uart-jtag-i2c sheet added with 4-channel ft4232hq
+RF Transmit Balun Schematics updated
+All the libraries appended with new components
+Old usb-uart sheet removed from project
