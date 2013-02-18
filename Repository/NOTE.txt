@@ -1,3 +1,1 @@
-Transported to PCB.
-TRAX Rules implemented.
-Layers not added
+Changed 0201components to 0402
