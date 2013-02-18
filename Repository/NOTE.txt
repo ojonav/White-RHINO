@@ -1,3 +1,1 @@
-1. Removed some Netlist Errors which were not pointed out by the compiler.
-2. Exported to new PCB.
-3. Placed components acc. to new plan
+More Placement
