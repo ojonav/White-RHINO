@@ -2,7 +2,7 @@
 Version=1.0
 HierarchyMode=2
 ChannelRoomNamingStyle=0
-OutputPath=Project Outputs for COMRAD_0v1
+OutputPath=
 LogFolderPath=
 ReleasesFolder=
 ReleaseVaultGUID=
@@ -2528,7 +2528,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document157]
-DocumentPath=PCB Library\PushButtonSwitch_CnK_1.14002.PcbLib
+DocumentPath=PCB Library\PushButtonSwitch_CnK_1.14002.1110000.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4401,6 +4401,22 @@ GenerateClassCluster=0
 
 [Document274]
 DocumentPath=PCB\PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document275]
+DocumentPath=Schematic Library\PushBut_Switch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

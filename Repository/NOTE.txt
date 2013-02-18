@@ -1,1 +1,1 @@
-Transferred to PCB & Basic Floorplan
+PCB libraries of switches added.
