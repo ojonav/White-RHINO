@@ -1,1 +1,3 @@
-More Placement
+1. Ethernet MDIO added differential net class
+2. Differential trace parameters adding ongoing.
+3. Stackup complete
