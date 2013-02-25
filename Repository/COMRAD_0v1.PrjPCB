@@ -4663,6 +4663,10 @@ DItemRevisionGUID=
 DocumentPath=Database Messages.txt
 DItemRevisionGUID=
 
+[GeneratedDocument3]
+DocumentPath=Project Outputs for COMRAD_0v1\Design Rule Check - WhiteRHINO_0v1.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=C:\Users\Ojonav Hazarika\Documents\2. KARMA\June2012to_\UCT PROJECTS\White Space Development\COMRAD PROJECT\COMRAD PCB PROJECT\PCB Library\*.*
 IncludeSubFolders=1
