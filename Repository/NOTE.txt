@@ -1,3 +1,2 @@
-DDR3 TRIAL 1: Huge length difference between short and long traces.
-Close to 40mm Difficult to length match.
-Trace impedances: 40 ohms & 80 ohm differential.
+DDR3: Changed to 50 Ohm
+New design rule
