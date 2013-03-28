@@ -1,2 +1,1 @@
-LMS6002 DONE. Length matching pending.
-GPS DONE. Length matching pending.
+FTDI undergoing
