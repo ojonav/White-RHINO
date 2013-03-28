@@ -1,2 +1,2 @@
-1. DDR3 DQ,Address, clock & control lines routed.
-2. Parallel termination resistors placed
+DDR3: Terminations & Decoupling placed and connected.
+Ground wiring for DDR3 interface remaining.
