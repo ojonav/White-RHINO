@@ -1,2 +1,2 @@
-DDR3: Changed to 50 Ohm
-New design rule
+1. DDR3 DQ,Address, clock & control lines routed.
+2. Parallel termination resistors placed
