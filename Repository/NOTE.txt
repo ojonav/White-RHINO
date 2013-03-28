@@ -1,2 +1,3 @@
-DDR3: Terminations & Decoupling placed and connected.
-Ground wiring for DDR3 interface remaining.
+DDR3 complete
+SPI Flash complete
+Both Ethernet PHYs ongoing.
