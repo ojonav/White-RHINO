@@ -1,1 +1,1 @@
-FTDI undergoing
+USB_UART, RF-Power Supply
