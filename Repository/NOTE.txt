@@ -1,3 +1,2 @@
-DDR3 complete
-SPI Flash complete
-Both Ethernet PHYs ongoing.
+ETHERNET PHYs ONGOING
+VCC1V8 Power plane to PHYs drawn.
