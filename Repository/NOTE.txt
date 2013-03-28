@@ -1,2 +1,3 @@
-ETHERNET PHYs ONGOING
-VCC1V8 Power plane to PHYs drawn.
+1. Ethernet PHYs ongoing
+2. RF ongoing.
+Minor schematic changes(pin swapping)
