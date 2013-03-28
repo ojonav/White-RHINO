@@ -1,3 +1,2 @@
-1. Ethernet PHYs ongoing
-2. RF ongoing.
-Minor schematic changes(pin swapping)
+LMS6002 DONE. Length matching pending.
+GPS DONE. Length matching pending.

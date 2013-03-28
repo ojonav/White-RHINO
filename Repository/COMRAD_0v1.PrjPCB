@@ -4672,22 +4672,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document291]
-DocumentPath=PCB\WhiteRHINO_0v1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document292]
 DocumentPath=Schematic Library\AND_Gate_TI_SN74AUP1T08DCKR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -4703,7 +4687,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document293]
+[Document292]
 DocumentPath=Schematic Library\OR_Gate_TI_SN74AHC1G32DRLR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -4719,7 +4703,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document294]
+[Document293]
 DocumentPath=Schematics\Shundown_Mechanism.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -4727,6 +4711,22 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=53
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document294]
+DocumentPath=PCB\WhiteRHINO_0v1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
