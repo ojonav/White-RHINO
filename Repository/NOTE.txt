@@ -1,1 +1,1 @@
-Zynq Decoupling ongoing
+SD Card, USB, Power Switch & other connectors.
