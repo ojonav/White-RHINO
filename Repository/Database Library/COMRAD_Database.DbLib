@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Ojonav Ha
 AddMode=2
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -15,7 +15,7 @@ LibraryDatabaseType=Microsoft Excel
 LibraryDatabasePath=C:\Users\Ojonav Hazarika\Documents\2. KARMA\June2012to_\UCT PROJECTS\White Space Development\COMRAD PROJECT\COMRAD PCB PROJECT\Database Library\Database.xls
 DatabasePathRelative=0
 TopPanelCollapsed=0
-LibrarySearchPath=..\PCB Library;..\Schematic Library;..\Database Library
+LibrarySearchPath=..\PCB Library;..\Schematic Library;..\Database Library;..\IBIS Models
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 LastFocusedTable=Database$
@@ -25,9 +25,6 @@ TableName=Database$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=154|Description0=546|Library Ref0=251|Footprint Ref0=284|Manufacturer0=295|Value0=108|Distributor0=309|Manufacturer Datasheet0=138
 [FieldMap1]
 Options=FieldName=Database$.Part Number|TableNameOnly=Database$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

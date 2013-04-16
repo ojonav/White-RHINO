@@ -1,0 +1,35 @@
+Errors  : 0
+
+File Passed
+ERROR (line 231332) - Signal string 'DIFF_HSTL_II_T_DCI_S_AUX20_HP_IN60_I_P' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_HSTL_II_T_DCI_S_AUX20_HP_IN60_I_N' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_HSTL_II_T_DCI_F_AUX20_HP_IN60_I_P' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_HSTL_II_T_DCI_F_AUX20_HP_IN60_I_N' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL15_T_DCI_S_AUX20_HP_IN60_I_P' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL15_T_DCI_S_AUX20_HP_IN60_I_N' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL15_T_DCI_F_AUX20_HP_IN60_I_P' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL15_T_DCI_F_AUX20_HP_IN60_I_N' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_HSTL_II_T_DCI_S_AUX20_HP_IN40_I_P' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_HSTL_II_T_DCI_S_AUX20_HP_IN40_I_N' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_HSTL_II_T_DCI_F_AUX20_HP_IN40_I_P' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_HSTL_II_T_DCI_F_AUX20_HP_IN40_I_N' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL15_T_DCI_S_AUX20_HP_IN40_I_P' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL15_T_DCI_S_AUX20_HP_IN40_I_N' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL15_T_DCI_F_AUX20_HP_IN40_I_P' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL15_T_DCI_F_AUX20_HP_IN40_I_N' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL135_T_DCI_S_AUX20_HP_IN60_I_P' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL135_T_DCI_S_AUX20_HP_IN60_I_N' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL135_T_DCI_F_AUX20_HP_IN60_I_P' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL135_T_DCI_F_AUX20_HP_IN60_I_N' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL135_T_DCI_S_AUX20_HP_IN40_I_P' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL135_T_DCI_S_AUX20_HP_IN40_I_N' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL135_T_DCI_F_AUX20_HP_IN40_I_P' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL135_T_DCI_F_AUX20_HP_IN40_I_N' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL12_T_DCI_S_AUX20_HP_IN60_I_P' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL12_T_DCI_S_AUX20_HP_IN60_I_N' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL12_T_DCI_F_AUX20_HP_IN60_I_P' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL12_T_DCI_F_AUX20_HP_IN60_I_N' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL12_T_DCI_S_AUX20_HP_IN40_I_P' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL12_T_DCI_S_AUX20_HP_IN40_I_N' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL12_T_DCI_F_AUX20_HP_IN40_I_P' is too long, truncating to 1 characters.
+ERROR (line 231332) - Signal string 'DIFF_SSTL12_T_DCI_F_AUX20_HP_IN40_I_N' is too long, truncating to 1 characters.
