@@ -4800,39 +4800,39 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
-DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQS3_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
+DocumentPath=COMRAD_0v1.sdf
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQS2_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
+DocumentPath=Signal Integrity Simulations\DDR3_ADDRESS\COMRAD_0v1_DDR3_A0_1ns_Reflections.sdf
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQS1_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
+DocumentPath=Signal Integrity Simulations\DDR3_ADDRESS\COMRAD_0v1_DDR3_A3_1ns_Reflections.sdf
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQS0_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
+DocumentPath=Signal Integrity Simulations\DDR3_ADDRESS\COMRAD_0v1_DDR3_A13_1ns_Reflections.sdf
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ29_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
+DocumentPath=Signal Integrity Simulations\DDR3_Clock\COMRAD_0v1_DDR3_Clocks_1ns_Reflections.sdf
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ24_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ17_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
-DItemRevisionGUID=
-
-[GeneratedDocument8]
 DocumentPath=Signal Integrity Simulations\DDR3_Clock\COMRAD_0v1_DDR3_Clocks_Reflections.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ00_BI_Reflections.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ00_BI_Reflections_DQ40ODT60I-40O_SSTL15-DCI-HP-IN40_1ns.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ00_BI_Reflections_DQ40ODT60I-40O_SSTL15-DCI-HP-IN40_.sdf
 DItemRevisionGUID=
 
 [GeneratedDocument10]
@@ -4840,10 +4840,50 @@ DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ03_BI_Re
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Database Messages.txt
+DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ03_BI_Reflections_DQ40ODT60I-40O_SSTL15-DCI-HP-IN40_1ns.sdf
 DItemRevisionGUID=
 
 [GeneratedDocument12]
+DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ17_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ17_BI_Reflections_DQ40ODT60I-40O_SSTL15-DCI-HP-IN40_1ns.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ24_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ24_BI_Reflections_DQ40ODT60I-40O_SSTL15-DCI-HP-IN40_1ns.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ29_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQS0_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQS1_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQS2_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQS3_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Database Messages.txt
+DItemRevisionGUID=
+
+[GeneratedDocument22]
 DocumentPath=Project Outputs for COMRAD_0v1\Design Rule Check - WhiteRHINO_0v1.html
 DItemRevisionGUID=
 
@@ -4910,25 +4950,25 @@ TerminationEnabled0=True
 TerminationSweeps0=1
 TerminationName1=Serial Res
 TerminationEnabled1=False
-TerminationSweeps1=1
+TerminationSweeps1=10
 TerminationName2=Parallel Res to VCC
 TerminationEnabled2=False
-TerminationSweeps2=1
+TerminationSweeps2=10
 TerminationName3=Parallel Res to GND
 TerminationEnabled3=False
-TerminationSweeps3=1
+TerminationSweeps3=10
 TerminationName4=Parallel Res to VCC & GND
 TerminationEnabled4=False
-TerminationSweeps4=1
+TerminationSweeps4=10
 TerminationName5=Parallel Cap to GND
 TerminationEnabled5=False
-TerminationSweeps5=1
+TerminationSweeps5=10
 TerminationName6=Res and Cap to GND
 TerminationEnabled6=False
-TerminationSweeps6=1
+TerminationSweeps6=10
 TerminationName7=Parallel Schottky Diodes
 TerminationEnabled7=False
-TerminationSweeps7=1
+TerminationSweeps7=10
 TerminationMinR10=0
 TerminationMaxR10=0
 TerminationPrefR10=0
