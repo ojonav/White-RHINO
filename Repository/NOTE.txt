@@ -1,1 +1,1 @@
-PoE & RF frontend removed.
+Connectors added
