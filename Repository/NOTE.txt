@@ -1,1 +1,2 @@
-Final connections made
+Most short circuit, clearance, silkscreen, unconnected pin DRC's removed
+SHIELD Added

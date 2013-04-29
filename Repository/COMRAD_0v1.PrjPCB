@@ -4864,7 +4864,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document303]
-DocumentPath=PCB Library\PcbLib1.PcbLib
+DocumentPath=PCB Library\Header_Mil-Max_800-10-002-40-002000_2-Pos.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4923,6 +4923,22 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document307]
+DocumentPath=Schematic Library\Header-2_milmax.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
