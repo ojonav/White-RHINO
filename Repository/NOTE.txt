@@ -1,2 +1,1 @@
-Most short circuit, clearance, silkscreen, unconnected pin DRC's removed
-SHIELD Added
+Ethernet LEDs & GPS connector
