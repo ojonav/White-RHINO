@@ -1,1 +1,1 @@
-Ethernet LEDs & GPS connector
+A_GND's converted to GND's
