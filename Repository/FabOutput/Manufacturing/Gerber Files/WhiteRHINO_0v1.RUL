@@ -1,0 +1,24 @@
+DRC Rules Export File for PCB: C:\Users\Ojonav Hazarika\Documents\2. KARMA\June2012to_\UCT PROJECTS\White Space Development\COMRAD PROJECT\COMRAD PCB PROJECT\PCB\WhiteRHINO_0v1.PcbDoc
+RuleKind=Width|RuleName=RF_PowerSupply|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_LMS_PowerPin_Nets|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=LMS_DIG_IO_Clearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Ethernet_ProcBus_Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width_Power_DDR|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=SinglEnded_DDR3_50ohm_Width|Scope=Board|Minimum=4.53
+RuleKind=Width|RuleName=DiffPair_DDR3_100ohm_Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=DiffPair_DDR3_Clearance|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=SinglEnded_DDR3_Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=DiffPair_RXIN1_Width|Scope=Board|Minimum=9.57
+RuleKind=Width|RuleName=DiffPair_TXOUT1_Width|Scope=Board|Minimum=7.28
+RuleKind=Width|RuleName=DiffPair_TXOUT2_Width|Scope=Board|Minimum=7.28
+RuleKind=Width|RuleName=DiffPair_USB_JTAG_D_Width|Scope=Board|Minimum=4.53
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width_50ohm|Scope=Board|Minimum=3.94
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=DiffPair_EthMDIO_Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=DiffPair_All_Clearance|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width_GND_Traces|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width_Power|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width_VCC_2V8_TCXO|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Other_PowerSupply|Scope=Board|Minimum=10.00

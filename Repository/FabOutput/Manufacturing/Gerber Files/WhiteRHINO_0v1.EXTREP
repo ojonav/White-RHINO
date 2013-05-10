@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: WhiteRHINO_0v1.GBR   09-05-2013  10:30:50
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                L1_Top Layer                            
+.GP1                L2_GND                                  
+.G1                 L3_Critical                             
+.G2                 L4_Critical                             
+.GP2                L5_GND                                  
+.GP3                L6_Power                                
+.G3                 L7_Non-Critical                         
+.GP4                L8_Power                                
+.G4                 L9_Critical                             
+.G5                 L10_Critical                            
+.GP5                L11_GND                                 
+.GBL                L12_Bottom Layer                        
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical1-3D                          
+------------------------------------------------------------------------------------------
