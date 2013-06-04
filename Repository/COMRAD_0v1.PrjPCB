@@ -2,7 +2,6 @@
 Version=1.0
 HierarchyMode=2
 ChannelRoomNamingStyle=0
-OutputPath=Project Outputs for COMRAD_0v1
 LogFolderPath=
 ReleasesFolder=
 ReleaseVaultGUID=
@@ -20,7 +19,7 @@ AllowPortNetNames=0
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
-DefaultConfiguration=
+DefaultConfiguration=Default Configuration
 UserID=0xFFFFFFFF
 DefaultPcbProtel=1
 DefaultPcbPcad=0
@@ -30,6 +29,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
+OutputPath=
 
 [Document1]
 DocumentPath=PCB Library\MAX_MAX8686_T4066M+1_N.PcbLib
@@ -4980,411 +4980,411 @@ DocumentPath=FabOutput\Manufacturing\Test Point Report\Assembly Testpoint Report
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=FabOutput\Manufacturing\Bill of Materials\Bill of Materials-COMRAD_0v1.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=COMRAD_0v1.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Signal Integrity Simulations\DDR3_ADDRESS\COMRAD_0v1_DDR3_A0_1ns_Reflections.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Signal Integrity Simulations\DDR3_ADDRESS\COMRAD_0v1_DDR3_A3_1ns_Reflections.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Signal Integrity Simulations\DDR3_ADDRESS\COMRAD_0v1_DDR3_A13_1ns_Reflections.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Signal Integrity Simulations\DDR3_Clock\COMRAD_0v1_DDR3_Clocks_1ns_Reflections.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Signal Integrity Simulations\DDR3_Clock\COMRAD_0v1_DDR3_Clocks_Reflections.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ00_BI_Reflections.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ00_BI_Reflections_DQ40ODT60I-40O_SSTL15-DCI-HP-IN40_1ns.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ00_BI_Reflections_DQ40ODT60I-40O_SSTL15-DCI-HP-IN40_.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ03_BI_Reflections.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ03_BI_Reflections_DQ40ODT60I-40O_SSTL15-DCI-HP-IN40_1ns.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ17_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ17_BI_Reflections_DQ40ODT60I-40O_SSTL15-DCI-HP-IN40_1ns.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ24_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument20]
 DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ24_BI_Reflections_DQ40ODT60I-40O_SSTL15-DCI-HP-IN40_1ns.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument21]
 DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQ29_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument22]
 DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQS0_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument23]
 DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQS1_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument24]
 DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQS2_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument25]
 DocumentPath=Signal Integrity Simulations\DDR3_DQ_DQS\COMRAD_0v1_DDR3_DQS3_BI_Reflections_DQ40ODT60_SSTL15-DCI-HP-IN40_.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument26]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument28]
 DocumentPath=Database Messages.txt
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for COMRAD_0v1\Design Rule Check - WhiteRHINO_0v1.html
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument30]
 DocumentPath=FabOutput\Manufacturing\Test Point Report\Fabrication Testpoint Report for WhiteRHINO_0v1.csv
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument31]
 DocumentPath=FabOutput\Manufacturing\Test Point Report\Fabrication Testpoint Report for WhiteRHINO_0v1.ipc
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument32]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument33]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\bottomoverlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument34]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument35]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\bottomsolder\features
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument36]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument37]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument38]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument39]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\mechanical1\features
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument40]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\mid1\features
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument41]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\mid2\features
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument42]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\mid3\features
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument43]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\mid4\features
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument44]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\mid5\features
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument45]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\plane1\features
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument46]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\plane2\features
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument47]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\plane3\features
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument48]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\plane4\features
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument49]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\plane5\features
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument50]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument51]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\topoverlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument52]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\toppaste\features
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument53]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\topsolder\features
 DItemRevisionGUID=
 
-[GeneratedDocument55]
+[GeneratedDocument54]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\symbols\rect13.7795x19.685_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument55]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\symbols\rect21.7795x27.685_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument56]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\symbols\s19.685_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument58]
+[GeneratedDocument57]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\symbols\s24.4094_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument59]
+[GeneratedDocument58]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\symbols\s27.685_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument60]
+[GeneratedDocument59]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\symbols\s32.4094_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument61]
+[GeneratedDocument60]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
-[GeneratedDocument62]
+[GeneratedDocument61]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\bottomoverlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument63]
+[GeneratedDocument62]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
-[GeneratedDocument64]
+[GeneratedDocument63]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\bottomsolder\features
 DItemRevisionGUID=
 
-[GeneratedDocument65]
+[GeneratedDocument64]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
-[GeneratedDocument66]
+[GeneratedDocument65]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument67]
+[GeneratedDocument66]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
-[GeneratedDocument68]
+[GeneratedDocument67]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\keepout\features
 DItemRevisionGUID=
 
-[GeneratedDocument69]
+[GeneratedDocument68]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\mechanical1\features
 DItemRevisionGUID=
 
-[GeneratedDocument70]
+[GeneratedDocument69]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\mechanical13\features
 DItemRevisionGUID=
 
-[GeneratedDocument71]
+[GeneratedDocument70]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\mechanical15\features
 DItemRevisionGUID=
 
-[GeneratedDocument72]
+[GeneratedDocument71]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\mid1\features
 DItemRevisionGUID=
 
-[GeneratedDocument73]
+[GeneratedDocument72]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\mid2\features
 DItemRevisionGUID=
 
-[GeneratedDocument74]
+[GeneratedDocument73]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\mid3\features
 DItemRevisionGUID=
 
-[GeneratedDocument75]
+[GeneratedDocument74]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\mid4\features
 DItemRevisionGUID=
 
-[GeneratedDocument76]
+[GeneratedDocument75]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\mid5\features
 DItemRevisionGUID=
 
-[GeneratedDocument77]
+[GeneratedDocument76]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\plane1\features
 DItemRevisionGUID=
 
-[GeneratedDocument78]
+[GeneratedDocument77]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\plane2\features
 DItemRevisionGUID=
 
-[GeneratedDocument79]
+[GeneratedDocument78]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\plane3\features
 DItemRevisionGUID=
 
-[GeneratedDocument80]
+[GeneratedDocument79]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\plane4\features
 DItemRevisionGUID=
 
-[GeneratedDocument81]
+[GeneratedDocument80]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\plane5\features
 DItemRevisionGUID=
 
-[GeneratedDocument82]
+[GeneratedDocument81]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
-[GeneratedDocument83]
+[GeneratedDocument82]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\topoverlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument84]
+[GeneratedDocument83]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\toppaste\features
 DItemRevisionGUID=
 
-[GeneratedDocument85]
+[GeneratedDocument84]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\topsolder\features
 DItemRevisionGUID=
 
-[GeneratedDocument86]
+[GeneratedDocument85]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\symbols\rect13.7795x19.685_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument87]
+[GeneratedDocument86]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\symbols\rect21.7795x27.685_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument88]
+[GeneratedDocument87]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\symbols\s19.685_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument89]
+[GeneratedDocument88]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\symbols\s24.4094_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument90]
+[GeneratedDocument89]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\symbols\s27.685_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument91]
+[GeneratedDocument90]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\symbols\s32.4094_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument92]
+[GeneratedDocument91]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument93]
+[GeneratedDocument92]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument94]
+[GeneratedDocument93]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument95]
+[GeneratedDocument94]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument96]
+[GeneratedDocument95]
 DocumentPath=FabOutput\Manufacturing\Generates pick and place files\Pick Place for WhiteRHINO_0v1.csv
 DItemRevisionGUID=
 
-[GeneratedDocument97]
+[GeneratedDocument96]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument98]
+[GeneratedDocument97]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument99]
+[GeneratedDocument98]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument100]
+[GeneratedDocument99]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument101]
+[GeneratedDocument100]
 DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
-[GeneratedDocument102]
+[GeneratedDocument101]
 DocumentPath=Project Outputs for COMRAD_0v1\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
-[GeneratedDocument103]
+[GeneratedDocument102]
 DocumentPath=FabOutput\Manufacturing\NC Drill Files\WhiteRHINO_0v1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Project Outputs for COMRAD_0v1\NC Drill Output\WhiteRHINO_0v1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument104]
@@ -5476,147 +5476,178 @@ DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument126]
-DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GKO
+DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument127]
-DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GM1
+DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument128]
-DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GM1
+DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument129]
-DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GM13
+DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument130]
-DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GM15
+DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument131]
-DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GP1
+DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument132]
-DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GP1
+DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument133]
-DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GP2
+DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument134]
-DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GP2
+DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument135]
-DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GP3
+DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument136]
-DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GP3
+DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument137]
-DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GP4
+DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument138]
-DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GP4
+DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument139]
-DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GP5
+DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GP3
 DItemRevisionGUID=
 
 [GeneratedDocument140]
-DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GP5
+DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GP3
 DItemRevisionGUID=
 
 [GeneratedDocument141]
-DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GPB
+DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GP4
 DItemRevisionGUID=
 
 [GeneratedDocument142]
-DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GPT
+DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GP4
 DItemRevisionGUID=
 
 [GeneratedDocument143]
-DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GTL
+DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GP5
 DItemRevisionGUID=
 
 [GeneratedDocument144]
-DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GTL
+DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GP5
 DItemRevisionGUID=
 
 [GeneratedDocument145]
-DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GTO
+DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument146]
-DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GTO
+DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument147]
-DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GTP
+DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument148]
-DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GTP
+DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument149]
-DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GTS
+DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument150]
-DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GTS
+DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument151]
-DocumentPath=FabOutput\Manufacturing\NC Drill Files\WhiteRHINO_0v1.LDP
+DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument152]
-DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.REP
+DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument153]
-DocumentPath=FabOutput\Manufacturing\ODB++ Files\WhiteRHINO_0v1.REP
+DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument154]
-DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.REP
+DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument155]
-DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.RUL
+DocumentPath=FabOutput\Manufacturing\NC Drill Files\WhiteRHINO_0v1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument156]
-DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\user\WhiteRHINO_0v1.RUL
+DocumentPath=Project Outputs for COMRAD_0v1\NC Drill Output\WhiteRHINO_0v1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument157]
-DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.RUL
+DocumentPath=PCB\WhiteRHINO_0v1.PcbDoc.htm
 DItemRevisionGUID=
 
 [GeneratedDocument158]
+DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument159]
+DocumentPath=FabOutput\Manufacturing\ODB++ Files\WhiteRHINO_0v1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument160]
+DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument161]
+DocumentPath=FabOutput\Manufacturing\Gerber Files\WhiteRHINO_0v1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument162]
+DocumentPath=FabOutput\Manufacturing\ODB++ Files\odb\user\WhiteRHINO_0v1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument163]
+DocumentPath=Project Outputs for COMRAD_0v1\WhiteRHINO_0v1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument164]
 DocumentPath=FabOutput\Manufacturing\NC Drill Files\WhiteRHINO_0v1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument165]
+DocumentPath=Project Outputs for COMRAD_0v1\NC Drill Output\WhiteRHINO_0v1.TXT
 DItemRevisionGUID=
 
 [SearchPath1]
 Path=C:\Users\Ojonav Hazarika\Documents\2. KARMA\June2012to_\UCT PROJECTS\White Space Development\COMRAD PROJECT\COMRAD PCB PROJECT\PCB Library\*.*
 IncludeSubFolders=1
 
-[PCBConfiguration1]
+[Configuration1]
+Name=Default Configuration
+ParameterCount=0
+ConstraintFileCount=0
 ReleaseItemId=
 CurrentRevision=
-Name=Default Configuration
 Variant=[No Variations]
 GenerateBOM=0
+OutputJobsCount=0
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
@@ -5769,6 +5800,9 @@ TerminationMinC7=0
 TerminationMaxC7=0
 TerminationPrefC7=0
 TerminationVCC7=5
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -6069,53 +6103,55 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=KONICA MINOLTA 501/421/361PS(P)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
-OutputType1=Drill
-OutputName1=Drill Drawing/Guides
+OutputType1=ODB
+OutputName1=ODB++ Files
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType2=Mask
-OutputName2=Solder/Paste Mask Prints
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=AddToAllPlots_Mechanical 1=True|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 13=True|AddToAllPlots_Mechanical 14=False|AddToAllPlots_Mechanical 15=True|AddToAllPlots_Mechanical 16=False|AddToAllPlots_Mechanical 2=False|AddToAllPlots_Mechanical 3=False|AddToAllPlots_Mechanical 4=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Mechanical 6=False|AddToAllPlots_Mechanical 7=False|AddToAllPlots_Mechanical 8=False|AddToAllPlots_Mechanical 9=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=True|PlotInternalPlane2Plot=True|PlotInternalPlane3Plot=True|PlotInternalPlane4Plot=True|PlotInternalPlane5Plot=True|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=False|PlotMechanical15Plot=True|PlotMechanical16Plot=False|PlotMechanical1Plot=True|PlotMechanical2Plot=False|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=True|PlotMidLayer4Plot=True|PlotMidLayer5Plot=True|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView
+OutputType2=NC Drill
+OutputName2=NC Drill Files
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType3=Final
-OutputName3=Final Artwork Prints
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
+OutputType3=Test Points
+OutputName3=Test Point Report
 OutputDocumentPath3=
-OutputVariantName3=[No Variations]
+OutputVariantName3=
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType4=CompositeDrill
-OutputName4=Composite Drill Drawing
+OutputType4=Plane
+OutputName4=Power-Plane Prints
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType5=NC Drill
-OutputName5=NC Drill Files
+OutputType5=Mask
+OutputName5=Solder/Paste Mask Prints
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=ODB
-OutputName6=ODB++ Files
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+OutputType6=Drill
+OutputName6=Drill Drawing/Guides
 OutputDocumentPath6=
-OutputVariantName6=[No Variations]
+OutputVariantName6=
 OutputDefault6=0
-Configuration6_Name1=OutputConfigurationParameter1
-Configuration6_Item1=AddToAllPlots_Mechanical 1=True|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 13=True|AddToAllPlots_Mechanical 14=False|AddToAllPlots_Mechanical 15=True|AddToAllPlots_Mechanical 16=False|AddToAllPlots_Mechanical 2=False|AddToAllPlots_Mechanical 3=False|AddToAllPlots_Mechanical 4=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Mechanical 6=False|AddToAllPlots_Mechanical 7=False|AddToAllPlots_Mechanical 8=False|AddToAllPlots_Mechanical 9=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=True|PlotInternalPlane2Plot=True|PlotInternalPlane3Plot=True|PlotInternalPlane4Plot=True|PlotInternalPlane5Plot=True|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=False|PlotMechanical15Plot=True|PlotMechanical16Plot=False|PlotMechanical1Plot=True|PlotMechanical2Plot=False|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=True|PlotMidLayer4Plot=True|PlotMidLayer5Plot=True|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView
-OutputType7=Plane
-OutputName7=Power-Plane Prints
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+OutputType7=CompositeDrill
+OutputName7=Composite Drill Drawing
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType8=Test Points
-OutputName8=Test Point Report
+OutputType8=Final
+OutputName8=Final Artwork Prints
 OutputDocumentPath8=
-OutputVariantName8=
+OutputVariantName8=[No Variations]
 OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 OutputType9=Gerber
 OutputName9=Gerber Files
 OutputDocumentPath9=
@@ -6375,21 +6411,16 @@ Name=Export Outputs
 Description=
 TargetPrinter=Microsoft XPS Document Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
-OutputType1=AutoCAD dwg/dxf PCB
-OutputName1=AutoCAD dwg/dxf File PCB
+OutputType1=ExportSTEP
+OutputName1=Export STEP
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
-OutputType2=AutoCAD dwg/dxf Schematic
-OutputName2=AutoCAD dwg/dxf File Schematic
+OutputType2=ExportIDF
+OutputName2=Export IDF
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=ExportSTEP
-OutputName3=Export STEP
-OutputDocumentPath3=
-OutputVariantName3=[No Variations]
-OutputDefault3=0
 
 [Modification Levels]
 Type1=1
@@ -6466,6 +6497,10 @@ Type71=1
 Type72=1
 Type73=1
 Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
 
 [Difference Levels]
 Type1=1
@@ -6508,6 +6543,9 @@ Type37=1
 Type38=1
 Type39=1
 Type40=1
+Type41=1
+Type42=1
+Type43=1
 
 [Electrical Rules Check]
 Type1=1
@@ -6632,12 +6670,14 @@ L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
 SortOrder=3
+SortLocation=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
 MatchStrictly2=1
 PhysicalNamingFormat=$Component_$RoomName
 GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
 
 [PrjClassGen]
 CompClassManualEnabled=0

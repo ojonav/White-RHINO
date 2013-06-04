@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: WhiteRHINO_0v1.GBR   09-05-2013  10:30:50
+Gerber File Extension Report For: WhiteRHINO_0v1.GBR   6/4/2013  2:32:26 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -25,4 +25,8 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM1                Mechanical1-3D                          
+.GM13               Mechanical2-3D                          
+.GM15               Mechanical3-Silkscreen                  
+.GM16               Mechanical 16                           
+.GKO                Keep-Out Layer                          
 ------------------------------------------------------------------------------------------

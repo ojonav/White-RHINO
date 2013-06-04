@@ -1,1 +1,2 @@
-First Outputs generated
+PoE power connector added.
+Errors Removed.
