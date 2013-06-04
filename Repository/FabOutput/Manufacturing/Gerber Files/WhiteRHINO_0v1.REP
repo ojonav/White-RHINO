@@ -212,7 +212,7 @@ Generating : L2_GND
 
 
 Used DCodes :
-    D11
+    D10
     D97
     D101
     D190
@@ -239,7 +239,7 @@ Generating : L3_Critical
 
 
 Used DCodes :
-    D11
+    D10
     D92
     D93
     D95
@@ -271,7 +271,7 @@ Generating : L4_Critical
 
 
 Used DCodes :
-    D11
+    D10
     D92
     D93
     D97
@@ -300,7 +300,7 @@ Generating : L5_GND
 
 
 Used DCodes :
-    D11
+    D10
     D97
     D101
     D190
@@ -327,7 +327,7 @@ Generating : L6_Power
 
 
 Used DCodes :
-    D11
+    D10
     D97
     D101
     D190
@@ -355,7 +355,7 @@ Generating : L7_Non-Critical
 
 
 Used DCodes :
-    D11
+    D10
     D92
     D94
     D95
@@ -388,7 +388,7 @@ Generating : L8_Power
 
 
 Used DCodes :
-    D11
+    D10
     D97
     D101
     D190
@@ -416,7 +416,7 @@ Generating : L9_Critical
 
 
 Used DCodes :
-    D11
+    D10
     D92
     D93
     D97
@@ -446,7 +446,7 @@ Generating : L10_Critical
 
 
 Used DCodes :
-    D11
+    D10
     D92
     D93
     D94
@@ -477,7 +477,7 @@ Generating : L11_GND
 
 
 Used DCodes :
-    D11
+    D10
     D97
     D190
     D195
@@ -503,15 +503,15 @@ Generating : L12_Bottom Layer
 
 
 Used DCodes :
-    D11
-    D14
-    D16
+    D10
+    D13
+    D15
+    D19
     D20
-    D21
-    D25
-    D44
-    D49
-    D51
+    D24
+    D43
+    D48
+    D50
     D67
     D69
     D70
@@ -866,15 +866,15 @@ Generating : Bottom Solder
 
 Used DCodes :
     D97
-    D283
-    D286
-    D288
+    D282
+    D285
+    D287
+    D291
     D292
-    D293
-    D297
-    D316
-    D321
-    D323
+    D296
+    D315
+    D320
+    D322
     D339
     D341
     D342
@@ -945,15 +945,15 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D11
-    D14
-    D16
+    D10
+    D13
+    D15
+    D19
     D20
-    D21
-    D25
-    D44
-    D49
-    D51
+    D24
+    D43
+    D48
+    D50
     D67
     D69
     D70
