@@ -213,9 +213,9 @@ Generating : L2_GND
 
 Used DCodes :
     D10
-    D97
+    D98
     D101
-    D190
+    D189
     D195
     D196
     D197
@@ -240,13 +240,13 @@ Generating : L3_Critical
 
 Used DCodes :
     D10
-    D92
+    D11
     D93
-    D95
+    D94
     D96
     D97
     D98
-    D100
+    D99
     D185
     D186
     D187
@@ -272,10 +272,10 @@ Generating : L4_Critical
 
 Used DCodes :
     D10
-    D92
+    D11
     D93
     D97
-    D100
+    D98
     D185
     D186
     D187
@@ -301,9 +301,9 @@ Generating : L5_GND
 
 Used DCodes :
     D10
-    D97
+    D98
     D101
-    D190
+    D189
     D195
     D196
     D197
@@ -328,9 +328,9 @@ Generating : L6_Power
 
 Used DCodes :
     D10
-    D97
+    D98
     D101
-    D190
+    D189
     D195
     D196
     D197
@@ -356,11 +356,11 @@ Generating : L7_Non-Critical
 
 Used DCodes :
     D10
-    D92
+    D11
     D94
-    D95
     D96
     D97
+    D98
     D100
     D101
     D185
@@ -389,9 +389,9 @@ Generating : L8_Power
 
 Used DCodes :
     D10
-    D97
+    D98
     D101
-    D190
+    D189
     D195
     D196
     D197
@@ -417,10 +417,10 @@ Generating : L9_Critical
 
 Used DCodes :
     D10
-    D92
+    D11
     D93
     D97
-    D100
+    D98
     D185
     D186
     D187
@@ -447,11 +447,11 @@ Generating : L10_Critical
 
 Used DCodes :
     D10
-    D92
+    D11
     D93
-    D94
-    D95
+    D96
     D97
+    D98
     D100
     D185
     D186
@@ -478,8 +478,8 @@ Generating : L11_GND
 
 Used DCodes :
     D10
-    D97
-    D190
+    D98
+    D189
     D195
     D196
     D197
@@ -504,28 +504,28 @@ Generating : L12_Bottom Layer
 
 Used DCodes :
     D10
+    D11
     D13
+    D14
     D15
+    D16
+    D17
+    D18
     D19
     D20
+    D21
+    D22
+    D23
     D24
-    D43
-    D48
-    D50
-    D67
-    D69
-    D70
-    D73
-    D76
+    D25
+    D26
+    D27
+    D47
+    D65
+    D66
+    D83
     D84
-    D85
-    D86
-    D87
-    D88
-    D89
     D90
-    D91
-    D92
     D93
     D94
     D95
@@ -627,9 +627,9 @@ Generating : Top Overlay
 
 
 Used DCodes :
-    D95
+    D96
     D97
-    D100
+    D98
     D101
     D273
     D274
@@ -739,7 +739,7 @@ Used DCodes :
     D90
     D91
     D92
-    D97
+    D98
 *************************************************************
 
 *************************************************************
@@ -756,7 +756,7 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D97
+    D98
     D282
     D283
     D284
@@ -865,30 +865,30 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D97
+    D98
     D282
+    D283
     D285
+    D286
     D287
+    D288
+    D289
+    D290
     D291
     D292
+    D293
+    D294
+    D295
     D296
-    D315
-    D320
-    D322
-    D339
-    D341
-    D342
-    D345
-    D348
+    D297
+    D298
+    D299
+    D319
+    D337
+    D338
+    D355
     D356
-    D357
-    D358
-    D359
-    D360
-    D361
     D362
-    D363
-    D364
     D365
     D366
     D367
@@ -947,27 +947,27 @@ Generating : Bottom Paste
 Used DCodes :
     D10
     D13
+    D14
     D15
+    D16
+    D17
+    D18
     D19
     D20
+    D21
+    D22
+    D23
     D24
-    D43
-    D48
-    D50
-    D67
-    D69
-    D70
-    D73
-    D76
+    D25
+    D26
+    D27
+    D47
+    D65
+    D66
+    D83
     D84
-    D85
-    D86
-    D87
-    D88
-    D89
     D90
-    D91
-    D97
+    D98
     D206
     D207
     D208
@@ -1010,9 +1010,9 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D95
+    D96
     D97
-    D100
+    D98
     D101
     D273
     D275
@@ -1030,7 +1030,7 @@ Generating : Mechanical1-3D
 
 
 Used DCodes :
-    D97
+    D98
 *************************************************************
 
 *************************************************************
@@ -1044,7 +1044,7 @@ Generating : Mechanical2-3D
 
 Used DCodes :
     D97
-    D100
+    D98
     D101
     D406
 *************************************************************
@@ -1060,7 +1060,7 @@ Generating : Mechanical3-Silkscreen
 
 Used DCodes :
     D97
-    D100
+    D98
     D406
     D407
 *************************************************************
@@ -1075,7 +1075,7 @@ Generating : Mechanical 16
 
 
 Used DCodes :
-    D97
+    D98
 *************************************************************
 
 *************************************************************
@@ -1088,7 +1088,7 @@ Generating : Keep-Out Layer
 
 
 Used DCodes :
-    D97
+    D98
     D408
     D409
     D410

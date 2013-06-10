@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: WhiteRHINO_0v1.PcbDoc   04-06-2013  15:01:31
+NCDrill File Report For: WhiteRHINO_0v1.PcbDoc   6/10/2013  8:38:16 AM
 ---------------------------------------------------------------------------
 
 Layer Pair : L1_Top Layer to L12_Bottom Layer
@@ -7,10 +7,10 @@ ASCII RoundHoles File : WhiteRHINO_0v1.TXT
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        3.94mil (0.10008mm)      Round          778              49.16 Inch (1248.76 mm)
-T2        7.87mil (0.1999mm)       Round          838              99.87 Inch (2536.74 mm)
+T1        3.94mil (0.10008mm)      Round          778              49.18 Inch (1249.19 mm)
+T2        7.87mil (0.1999mm)       Round          838              99.72 Inch (2532.80 mm)
 T3        9.84mil (0.24994mm)      Round          22               6.08 Inch (154.42 mm)
-T4        12.99mil (0.32995mm)     Round          41               10.12 Inch (256.99 mm)
+T4        12.99mil (0.32995mm)     Round          41               9.93 Inch (252.24 mm)
 T5        15.75mil (0.40005mm)     Round          111              36.31 Inch (922.21 mm)
 T6        40.16mil (1.02006mm)     Round          32               5.45 Inch (138.48 mm)
 T7        42.13mil (1.0701mm)      Round          6                0.50 Inch (12.70 mm)
@@ -19,6 +19,6 @@ T9        64.96mil (1.64998mm)     Round          3                0.36 Inch (9.
 T10       90.94mil (2.30988mm)     Round          8                2.84 Inch (72.09 mm)
 T11       118.11mil (2.99999mm)    Round          4                10.61 Inch (269.59 mm)
 ---------------------------------------------------------------------------
-Totals                                            1848             225.08 Inch (5716.92 mm)
+Totals                                            1848             224.75 Inch (5708.66 mm)
 
 Total Processing Time (hh:mm:ss) : 00:00:01

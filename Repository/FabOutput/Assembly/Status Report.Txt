@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 2:36:46 PM On 6/4/2013
+Start Output Generation At 8:45:18 AM On 6/10/2013
 
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [COMRAD_0v1.PrjPCB]
-   Generated File[Bill of Materials-COMRAD_0v1.xlsx]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [WhiteRHINO_0v1.PcbDoc]
+   Generated File[Pick Place for WhiteRHINO_0v1.csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 2:37:18 PM On 6/4/2013
+Finished Output Generation At 8:45:21 AM On 6/10/2013
