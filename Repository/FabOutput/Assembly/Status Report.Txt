@@ -1,6 +1,6 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 8:45:18 AM On 6/10/2013
+Start Output Generation At 11:23:04 On 10-06-2013
 
 Output: Generates pick and place files
 Type  : Pick Place
@@ -11,4 +11,4 @@ From  : Variant [[No Variations]] of PCB Document [WhiteRHINO_0v1.PcbDoc]
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 8:45:21 AM On 6/10/2013
+Finished Output Generation At 11:23:06 On 10-06-2013

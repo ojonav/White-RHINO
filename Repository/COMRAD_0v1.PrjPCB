@@ -29,7 +29,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=
+OutputPath=Project Outputs for COMRAD_0v1
 
 [Document1]
 DocumentPath=PCB Library\MAX_MAX8686_T4066M+1_N.PcbLib
@@ -5802,7 +5802,7 @@ TerminationPrefC7=0
 TerminationVCC7=5
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for COMRAD_0v1
 
 [OutputGroup1]
 Name=Netlist Outputs

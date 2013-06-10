@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=WhiteRHINO_0v1.OutJob
 Description=
-TargetOutputMedium=PDF Assembly Drawing with Dimensions
+TargetOutputMedium=Pick and Place
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
@@ -152,7 +152,7 @@ OutputEnabled3_OutputMedium12=0
 OutputEnabled3_OutputMedium13=0
 OutputEnabled3_OutputMedium14=0
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.62|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.63|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 Configuration3_Name1=OutputConfigurationParameter1
 Configuration3_Item1=DesignatorDisplayMode=Physical|PrintArea=SpecificArea|PrintAreaLowerLeftCornerX=94662500|PrintAreaLowerLeftCornerY=62995000|PrintAreaUpperRightCornerX=271522500|PrintAreaUpperRightCornerY=106455000|Record=PcbPrintView
 Configuration3_Name2=OutputConfigurationParameter2
@@ -180,7 +180,7 @@ OutputName4=Generates pick and place files
 OutputCategory4=Assembly
 OutputDocumentPath4=WhiteRHINO_0v1.PcbDoc
 OutputVariantName4=
-OutputEnabled4=0
+OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=0
@@ -1837,7 +1837,7 @@ OutputName20=Assembly Drawings Dimensions
 OutputCategory20=Assembly
 OutputDocumentPath20=WhiteRHINO_0v1.PcbDoc
 OutputVariantName20=
-OutputEnabled20=1
+OutputEnabled20=0
 OutputEnabled20_OutputMedium1=2
 OutputEnabled20_OutputMedium2=0
 OutputEnabled20_OutputMedium3=0
@@ -1935,7 +1935,7 @@ OutputEnabled22_OutputMedium14=0
 OutputDefault22=0
 PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.07|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 Configuration22_Name1=OutputConfigurationParameter1
-Configuration22_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=106000000|ViewY=61555556|LookAtX=333175904|LookAtY=135903040|LookAtZ=941913.75|QuatX=-0.478999346494675|QuatY=0.0910428017377853|QuatZ=-0.0100407851859927|QuatW=0.873023450374603|Zoom=9E-6|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ViewConfig= 
+Configuration22_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=106000000|ViewY=61555556|LookAtX=333175904|LookAtY=135903040|LookAtZ=941913.75|QuatX=-0.478999346494675|QuatY=0.0910428017377853|QuatZ=-0.0100407851859927|QuatW=0.873023450374603|Zoom=9E-6|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ViewConfig=
 OutputType23=PCB 3D Video
 OutputName23=PCB 3D Video
 OutputCategory23=Documentation
@@ -1981,7 +1981,7 @@ OutputEnabled24_OutputMedium12=0
 OutputEnabled24_OutputMedium13=0
 OutputEnabled24_OutputMedium14=0
 OutputDefault24=0
-PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.35|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.39|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 Configuration24_Name1=OutputConfigurationParameter1
 Configuration24_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
 Configuration24_Name2=OutputConfigurationParameter2
@@ -2073,7 +2073,7 @@ OutputPathMedia4=
 OutputPathOutputer4=[Output Type]
 OutputFileName4=
 OutputFileNameMulti4=
-UseOutputNameForMulti4=0
+UseOutputNameForMulti4=1
 OutputFileNameSpecial4=
 OpenOutput4=1
 OutputFilePath6=D:\repositories\vermeer\Phase3PreProduction\elec\FabOutput\PDF\MoleRad-V1_AssyDwg.PDF
